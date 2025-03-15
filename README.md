@@ -2,7 +2,6 @@
 HR Data Analytics portfolio project that deals with HR KPIs like Performance tracking, attrition rate. Project involved cleaning, transforming data and visualizing it to create a dashboard. I have used the MS Excel and Power BI's Query Editor for data cleaning and preprocessing and dashboard as part of Data Analyst(Power BI) track of Datacamp.
 
 
-##### Note: The original dataset had more than 80K records which needed to be cleaned first and processed for this portfolio project and only the cleaned dataset of 76K records is present in repository.
 
 
 
@@ -42,6 +41,6 @@ HR Data Analytics portfolio project that deals with HR KPIs like Performance tra
 ![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/4.%20HR%20Analytics%20Project%20Attrition.png)
 
 
-###### Note: The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.
+
 
 
